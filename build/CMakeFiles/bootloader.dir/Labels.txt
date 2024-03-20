@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/veggeterian/Documents/LVGL/Shtc3/build/CMakeFiles/bootloader
+/home/veggeterian/Documents/LVGL/Shtc3/build/CMakeFiles/bootloader.rule
+/home/veggeterian/Documents/LVGL/Shtc3/build/CMakeFiles/bootloader-complete.rule
+/home/veggeterian/Documents/LVGL/Shtc3/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/veggeterian/Documents/LVGL/Shtc3/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/veggeterian/Documents/LVGL/Shtc3/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/veggeterian/Documents/LVGL/Shtc3/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/veggeterian/Documents/LVGL/Shtc3/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/veggeterian/Documents/LVGL/Shtc3/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/veggeterian/Documents/LVGL/Shtc3/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

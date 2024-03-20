@@ -1,0 +1,7 @@
+CMake Error at run_serial_tool.cmake:66 (message):
+  
+  /home/veggeterian/.espressif/python_env/idf5.1_py3.9_env/bin/python;;/home/veggeterian/esp4/esp-idf/components/esptool_py/esptool/esptool.py;--chip;esp32
+  failed.
+
+
+
